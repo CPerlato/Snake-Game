@@ -1,2 +1,0 @@
-Primeiro game 
-# Snake-Game
